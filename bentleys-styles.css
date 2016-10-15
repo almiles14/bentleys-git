@@ -36,3 +36,6 @@ h4 {
   width: 500px;
   float:left;
 }
+.changes {
+  font-family: monospace;
+}
